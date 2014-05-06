@@ -1,0 +1,4 @@
+phonecap
+========
+
+AngularJs based app
